@@ -3,7 +3,6 @@ Traffic Control Simulation System
 
 A Java-based traffic management simulator that models intersections with configurable traffic lights, real-time vehicle movement, and a graphical interface. This project demonstrates object-oriented programming (OOP), multithreading, and Swing-based GUI development.
 
-
 📌 Features
 1. Intersection Management
 Create & customize intersections (4-way and T-junctions)
@@ -74,4 +73,3 @@ src/
 ✔ Multithreading (Independent traffic light control)
 ✔ Swing GUI (Interactive visualization)
 ✔ File I/O (Loading map layouts from text files)
->>>>>>> 69723bb (Add TrafficController.java)
